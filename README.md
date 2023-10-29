@@ -28,6 +28,9 @@ If you're interested in collaborating, have questions, or want to discuss digita
 
 We hope you enjoy exploring our Digital Marketing Nan Mudhalvan Project as much as we enjoyed creating it. Thanks for stopping by! 🚀
 
-[![Project Preview](image-link)](https://drive.google.com/drive/folders/1SUOOZUDQGXPtFN-elKhC0jJtSkk0QFB4)
+[![Project Preview]](https://drive.google.com/drive/folders/1SUOOZUDQGXPtFN-elKhC0jJtSkk0QFB4)
+
+<img src="https://github.com/ayrus-369/DigitalMarketingNanMudhalvan/blob/main/logo.jpg" alt="Project Preview" width="200" height="200">
+
 
 > "The best marketing doesn't feel like marketing." – Tom Fishburne
